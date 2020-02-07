@@ -17,8 +17,8 @@ body {
 }
 
 h1 {
-  background: #F7F7F7;
-  color: #black;
+  background: black;
+  color: white;
   margin: 0;
   padding: 10px 100px;
   text-transform: uppercase;
