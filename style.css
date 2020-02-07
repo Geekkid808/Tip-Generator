@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background: #8E0E00;
   
-  background: linear-gradient(to bottom right, springgreen ,aqua);
+  background: linear-gradient(to right, springgreen ,aqua);
 }
 
 #container {
