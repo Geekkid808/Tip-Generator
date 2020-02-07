@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background: #8E0E00;
   
-  background: linear-gradient(to right, springgreen ,aqua);
+  background: linear-gradient(to right, #3CB371 ,#00FFFF);
 }
 
 #container {
@@ -17,8 +17,8 @@ body {
 }
 
 h1 {
-  background: black;
-  color: white;
+  background: #F7F7F7;
+  color: #FFFFFF;
   margin: 0;
   padding: 10px 100px;
   text-transform: uppercase;
@@ -69,7 +69,7 @@ input {
 }
 
 #serviceQual {
-  padding: 0px 13px 0px 0px;
+  padding: 1px 13px 1px 1px;
   margin-left: 20px;
   font-size: 25px;
 }
@@ -79,16 +79,16 @@ button {
   font-weight: bold;
   display: block;
   margin: 30px auto;
-  background:  springgreen;
+  background:  #00FF7F;
   border-radius: 5px;
   width: 200px;
   height: 50px;
   font-size: 17px;
-  color: white;
+  color: #FFFFFF;
 }
 
 button:hover {
-  background: mediumseagreen;
+  background: #3CB371;
   border-bottom-color: #111;
 }
 
